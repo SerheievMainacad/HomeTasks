@@ -1,7 +1,7 @@
 //tasks explaeined in commets below
 
 
-var task1 = 'I&am$the$Best$Front$end&developer$ever'
+var task1 = 'I&am$the$Best$Front$end&developer$ever';
 // create array from string - ['I', 'am', 'the', 'best', 'Front', 'end', 'developer', 'ever'];
 
 var task2;
